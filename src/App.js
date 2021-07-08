@@ -9,6 +9,7 @@ function App() {
         <p>
           React bo'yicha 1-loyiha.
         </p>
+        <p>Bugun 08.07.2021 sanada react darsimizani boshladik.</p>
         <a
           className="App-link"
           href="https://reactjs.org"
