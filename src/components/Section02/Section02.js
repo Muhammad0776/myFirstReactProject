@@ -8,7 +8,7 @@ class Section02 extends React.Component {
         return <section>
             <div className="container py-5">
                 <h2 class="text-center">What Clients Say</h2>
-                <p>Problems trying to resolve the conflict between <br />
+                <p class="text-center">Problems trying to resolve the conflict between <br />
                     the two major realms of Classical physics: Newtonian mechanics </p>
                 <div className="row">
 

@@ -4,6 +4,9 @@ import Navbar from '../Navbar/Navbar';
 import Counter from '../Counter/Counter';
 import Section from '../Section/Section';
 import Section02 from '../Section02/Section02'
+import About from "../About/About"
+import Pricing from "../Pricing/Pricing"
+import Touch from "../Touch/Touch"
 
 
 
@@ -14,6 +17,9 @@ class App extends React.Component {
       <Counter />
       <Section />
       <Section02 />
+      <About />
+      <Pricing />
+      <Touch />
     </div>
   }
 }
