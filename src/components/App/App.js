@@ -1,15 +1,19 @@
 import React from 'react'
 import './App.css';
-import Header from '../Header/Header';
+import Navbar from '../Navbar/Navbar';
 import Counter from '../Counter/Counter';
+import Section from '../Section/Section';
+import Section02 from '../Section02/Section02'
 
 
 
 class App extends React.Component {
   render() {
     return <div className="App">
-      <Header />   {/* <Header></Header> - bu usulda ham ishlayveradi */}
+      <Navbar />   {/* <Header></Header> - bu usulda ham ishlayveradi */}
       <Counter />
+      <Section />
+      <Section02 />
     </div>
   }
 }

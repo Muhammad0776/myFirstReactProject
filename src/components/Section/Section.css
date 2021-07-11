@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700;800;900&display=swap');
+
+section, .card{
+    padding-top: 70px;
+    background-color: #252B42;
+    color: #FFFFFF;
+}
+.card{
+    border: 1px solid #FFFFFF;
+    transition: 0.3s;
+}
+.card, h4{
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 15px;
+    line-height: 17px;
+    letter-spacing: 0.0713178px;
+}
+.card, p{
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 13px;
+    line-height: 14px;    
+    letter-spacing: 0.142636px;
+}
+.card:hover{
+    box-shadow: 4px -8px 8px rgba(255, 255, 255, 0.5),
+                -4px 8px 8px rgba(255, 255, 255, 0.5);
+}
+h2{
+    font-family: Montserrat;
+    font-weight: bold;
+    font-style: normal;
+    font-size: 28.5271px;
+    line-height: 41px;
+    letter-spacing: 0.142636px;
+}
+p{
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 9.9845px;
+    line-height: 14px;
+    letter-spacing: 0.142636px;
+}
