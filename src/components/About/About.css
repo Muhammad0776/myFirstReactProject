@@ -54,3 +54,9 @@ small{
     line-height: 17px;
     letter-spacing: 0.142636px;
 }
+.widhei{
+    width: 40px;
+    height: 40px;
+    color: #23A6F0 !important;
+    margin-right: 20px;
+}

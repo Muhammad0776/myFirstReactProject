@@ -48,3 +48,8 @@ p{
 .cursor{
     cursor: pointer !important;
 }
+.widHeig{
+    width: 55px;
+    height: 55px;
+    color: #23A6F0;
+}

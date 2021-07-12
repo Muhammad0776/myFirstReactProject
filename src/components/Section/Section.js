@@ -1,6 +1,6 @@
 import React from 'react'
 import "./Section.css"
-// import img from "./components/img/Vector (5).png"
+import { IoPeopleOutline } from "react-icons/io5";
 
 class Section extends React.Component {
     render() {
@@ -12,61 +12,73 @@ class Section extends React.Component {
                 <div className="row">
 
                     <div className="col-12 col-sm-6 col-lg-4 px-3 cursor">
-                        <div className="card d-flex py-4 px-2 mb-4 text-left">
-                            {/* <img src={img} alt="" /> */}
-                            <div>
-                                <h4 className="mb-2">Investment Trading</h4>
-                                <p>the quick fox jumps over the <br /> lazy dog</p>
+                        <div className="card d-flex py-4 px-2 mb-4">
+                            <div className="d-flex">
+                                <IoPeopleOutline className="widHeig ms-4" />
+                                <div className="ms-5 text-start">
+                                    <h4 className="mb-2 ">Investment Trading</h4>
+                                    <p>the quick fox jumps over the <br /> lazy dog</p>
+                                </div>
                             </div>
                         </div>
                     </div>
 
                     <div className="col-12 col-sm-6 col-lg-4 px-3 cursor">
-                        <div className="card d-flex py-4 px-2 mb-4 text-left">
-                            {/* <img src={img} alt="" /> */}
-                            <div>
-                                <h4 className="mb-2">Investment Trading</h4>
-                                <p>the quick fox jumps over the <br /> lazy dog</p>
+                        <div className="card d-flex py-4 px-2 mb-4">
+                            <div className="d-flex">
+                                <IoPeopleOutline className="widHeig ms-4" />
+                                <div className="ms-5 text-start">
+                                    <h4 className="mb-2 ">Investment Trading</h4>
+                                    <p>the quick fox jumps over the <br /> lazy dog</p>
+                                </div>
                             </div>
                         </div>
                     </div>
 
                     <div className="col-12 col-sm-6 col-lg-4 px-3 cursor">
-                        <div className="card d-flex py-4 px-2 mb-4 text-left">
-                            {/* <img src={img} alt="" /> */}
-                            <div>
-                                <h4 className="mb-2">Investment Trading</h4>
-                                <p>the quick fox jumps over the <br /> lazy dog</p>
+                        <div className="card d-flex py-4 px-2 mb-4">
+                            <div className="d-flex">
+                                <IoPeopleOutline className="widHeig ms-4" />
+                                <div className="ms-5 text-start">
+                                    <h4 className="mb-2 ">Investment Trading</h4>
+                                    <p>the quick fox jumps over the <br /> lazy dog</p>
+                                </div>
                             </div>
                         </div>
                     </div>
 
                     <div className="col-12 col-sm-6 col-lg-4 px-3 cursor">
-                        <div className="card d-flex py-4 px-2 mb-4 text-left">
-                            {/* <img src={img} alt="" /> */}
-                            <div>
-                                <h4 className="mb-2">Investment Trading</h4>
-                                <p>the quick fox jumps over the <br /> lazy dog</p>
+                        <div className="card d-flex py-4 px-2 mb-4">
+                            <div className="d-flex">
+                                <IoPeopleOutline className="widHeig ms-4" />
+                                <div className="ms-5 text-start">
+                                    <h4 className="mb-2 ">Investment Trading</h4>
+                                    <p>the quick fox jumps over the <br /> lazy dog</p>
+                                </div>
                             </div>
                         </div>
                     </div>
 
                     <div className="col-12 col-sm-6 col-lg-4 px-3 cursor">
-                        <div className="card d-flex py-4 px-2 mb-4 text-left">
-                            {/* <img src={img} alt="" /> */}
-                            <div>
-                                <h4 className="mb-2">Investment Trading</h4>
-                                <p>the quick fox jumps over the <br /> lazy dog</p>
+                        <div className="card d-flex py-4 px-2 mb-4">
+                            <div className="d-flex">
+                                <IoPeopleOutline className="widHeig ms-4" />
+                                <div className="ms-5 text-start">
+                                    <h4 className="mb-2 ">Investment Trading</h4>
+                                    <p>the quick fox jumps over the <br /> lazy dog</p>
+                                </div>
                             </div>
                         </div>
                     </div>
 
                     <div className="col-12 col-sm-6 col-lg-4 px-3 cursor">
-                        <div className="card d-flex py-4 px-2 mb-4 text-left">
-                            {/* <img src={img} alt="" /> */}
-                            <div>
-                                <h4 className="mb-2">Investment Trading</h4>
-                                <p>the quick fox jumps over the <br /> lazy dog</p>
+                        <div className="card d-flex py-4 px-2 mb-4">
+                            <div className="d-flex">
+                                <IoPeopleOutline className="widHeig ms-4" />
+                                <div className="ms-5 text-start">
+                                    <h4 className="mb-2 ">Investment Trading</h4>
+                                    <p>the quick fox jumps over the <br /> lazy dog</p>
+                                </div>
                             </div>
                         </div>
                     </div>
