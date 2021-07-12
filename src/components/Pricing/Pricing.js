@@ -4,14 +4,14 @@ import "./Pricing.css"
 
 class Pricing extends React.Component {
     render() {
-        return <section>
+        return <section id="pricing">
             <div className="container py-5">
                 <h2 class="text-center title mb-3">Pricing</h2>
                 <p className="text-center mb-5 subtitle">Problems trying to resolve the conflict between <br />
                     the two major realms of Classical physics: Newtonian mechanics </p>
 
                 <div className="row">
-                    <div className="col-12 col-sm-12 col-lg-4 me-0 mb-4">
+                    <div className="col-12 col-sm-12 col-md-6 col-lg-4 me-0 mb-4">
                         <div class="card text-center bg-light text-dark pt-0 me-0">
                             <div class="card-body py-4">
                                 <h5 class="card-title mb-4">FREE</h5>
@@ -32,7 +32,7 @@ class Pricing extends React.Component {
                         </div>
                     </div>
 
-                    <div className="col-12 col-sm-12 col-lg-4 me-0 mb-4">
+                    <div className="col-12 col-sm-12 col-md-6 col-lg-4 me-0 mb-4">
                         <div class="card text-center bg-light text-dark pt-0 me-0">
                             <div class="card-body py-4">
                                 <h5 class="card-title mb-4">Silver</h5>
@@ -53,7 +53,7 @@ class Pricing extends React.Component {
                         </div>
                     </div>
 
-                    <div className="col-12 col-sm-12 col-lg-4 me-0 mb-4">
+                    <div className="col-12 col-sm-12 col-md-6 col-lg-4 me-0 mb-4">
                         <div class="card text-center bg-light text-dark pt-0 me-0">
                             <div class="card-body py-4">
                                 <h5 class="card-title mb-4">GOLD</h5>

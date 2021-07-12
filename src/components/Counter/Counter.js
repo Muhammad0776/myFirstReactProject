@@ -9,8 +9,8 @@ class Counter extends React.Component {
                 <p className="mb-5 p">We know how large objects will act, but things on a <br />
                     small scale just do not act that way.</p>
                 <div className="d-flex justify-content-center align-items-center">
-                    <button className="btn btn-primary me-3">Get Quote Now</button>
-                    <button className="btn rad">Learn More</button>
+                    <button className="btn btn-primary me-3 py-2 px-5">Get Quote Now</button>
+                    <button className="btn rad py-2 px-5">Learn More</button>
                 </div>
             </div>
         </div>

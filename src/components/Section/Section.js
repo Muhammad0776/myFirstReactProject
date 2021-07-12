@@ -11,7 +11,57 @@ class Section extends React.Component {
                     the two major realms of Classical physics: Newtonian mechanics </p>
                 <div className="row">
 
-                    <div className="col-12 col-sm-6 col-lg-4 px-3">
+                    <div className="col-12 col-sm-6 col-lg-4 px-3 cursor">
+                        <div className="card d-flex py-4 px-2 mb-4 text-left">
+                            {/* <img src={img} alt="" /> */}
+                            <div>
+                                <h4 className="mb-2">Investment Trading</h4>
+                                <p>the quick fox jumps over the <br /> lazy dog</p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div className="col-12 col-sm-6 col-lg-4 px-3 cursor">
+                        <div className="card d-flex py-4 px-2 mb-4 text-left">
+                            {/* <img src={img} alt="" /> */}
+                            <div>
+                                <h4 className="mb-2">Investment Trading</h4>
+                                <p>the quick fox jumps over the <br /> lazy dog</p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div className="col-12 col-sm-6 col-lg-4 px-3 cursor">
+                        <div className="card d-flex py-4 px-2 mb-4 text-left">
+                            {/* <img src={img} alt="" /> */}
+                            <div>
+                                <h4 className="mb-2">Investment Trading</h4>
+                                <p>the quick fox jumps over the <br /> lazy dog</p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div className="col-12 col-sm-6 col-lg-4 px-3 cursor">
+                        <div className="card d-flex py-4 px-2 mb-4 text-left">
+                            {/* <img src={img} alt="" /> */}
+                            <div>
+                                <h4 className="mb-2">Investment Trading</h4>
+                                <p>the quick fox jumps over the <br /> lazy dog</p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div className="col-12 col-sm-6 col-lg-4 px-3 cursor">
+                        <div className="card d-flex py-4 px-2 mb-4 text-left">
+                            {/* <img src={img} alt="" /> */}
+                            <div>
+                                <h4 className="mb-2">Investment Trading</h4>
+                                <p>the quick fox jumps over the <br /> lazy dog</p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div className="col-12 col-sm-6 col-lg-4 px-3 cursor">
                         <div className="card d-flex py-4 px-2 mb-4 text-left">
                             {/* <img src={img} alt="" /> */}
                             <div>
