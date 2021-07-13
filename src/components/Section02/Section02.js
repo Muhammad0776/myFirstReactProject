@@ -1,7 +1,6 @@
 import React from 'react'
 import { FaStar, FaStarHalfAlt } from "react-icons/fa";
 import "./Section02.css"
-import img from "../img/#user1.png"
 
 class Section02 extends React.Component {
     render() {
@@ -13,10 +12,10 @@ class Section02 extends React.Component {
                 <div className="row">
 
                     <div className="col-12 col-sm-12 col-lg-6">
-                        <div class="card mb-3 bg-white text-dark py-4 shadow-none">
+                        <div class="card mb-3 bg-white text-dark py-2 shadow-none">
                             <div class="row g-0">
                                 <div class="col-md-4">
-                                    <img src={img} class="img-fluid rounded-start w-100" alt="" />
+                                    <img src="/img/user.png" class="img-fluid rounded-start w-100 h-100" alt="" />
                                 </div>
                                 <div class="col-md-8">
                                     <div class="card-body">
@@ -33,10 +32,10 @@ class Section02 extends React.Component {
                     </div>
 
                     <div className="col-12 col-sm-12 col-lg-6">
-                        <div class="card mb-3 bg-white text-dark py-4 shadow-none">
+                        <div class="card mb-3 bg-white text-dark py-2 shadow-none">
                             <div class="row g-0">
                                 <div class="col-md-4">
-                                    {/* <img src={img} class="img-fluid rounded-start" alt="" /> */}
+                                    <img src="/img/user2.png" class="img-fluid rounded-start w-100 h-100" alt="" />
                                 </div>
                                 <div class="col-md-8">
                                     <div class="card-body">
